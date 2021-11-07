@@ -26,7 +26,5 @@ public class SetEx {
         for (String elCollection : listSorted) {
             System.out.println(elCollection);
         }
-
-
     }
 }
